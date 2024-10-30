@@ -1,0 +1,2 @@
+You can customize the theme of this plugin by copying the subdirectory inside /theme to your current blog theme and then editing it.
+The plugin will first check if the plugin theme exists in your current theme; and if not, will load the default one (from the /theme directory of this plugin).
